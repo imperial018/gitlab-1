@@ -1,13 +1,17 @@
 #include<stdio.h>
 main()
 {
+ sub()
+{
+ printf("sub of a and b'):
+  }
+
  add()
 {
  ********************
  printf("sum of a and b")
   *******************
  }
- sub();
  mul();
  div();
 }
