@@ -2,7 +2,10 @@
 main()
 {
  add();
- sub();
+ sub()
+{
+ printf("sub of a and b'):
+  }
  mul();
  div();
 }
